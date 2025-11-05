@@ -3,7 +3,8 @@
   "displayName": "Console Remover",
   "publisher": "chiarinze",
   "description": "Removes all console statements from current file or entire workspace.",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.105.0"
   },
@@ -26,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/chiarinze/console-remover-vscode.git"
+    "url": "https://github.com/Chiarinze/console-remover-vscode.git"
   },
   "scripts": {
     "vscode:prepublish": "npm run compile",

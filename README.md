@@ -106,7 +106,7 @@ Once published, search for **Console Remover** in the Extensions view and instal
 ### Steps
 
 ```bash
-git clone https://github.com/<your-username>/console-remover-vscode.git
+git clone https://github.com/Chiarinze/console-remover-vscode.git
 cd console-remover-vscode
 npm install
 npm run compile
@@ -193,10 +193,10 @@ You can share or install this file manually.
 ## 📚 Contributing
 
 Contributions and pull requests are welcome!  
-If you'd like to suggest features or report bugs, please open an issue on [GitHub](https://github.com/chiarinze/console-remover-vscode).
+If you'd like to suggest features or report bugs, please open an issue on [GitHub](https://github.com/Chiarinze/console-remover-vscode.git).
 
 ---
 
 ## 🪪 License
 
-MIT © 2025 [Chiarinze](https://github.com/chiarinze)
+MIT © 2025 [Chiarinze](https://github.com/Chiarinze)
